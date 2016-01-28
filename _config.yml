@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://dobbsbp.github.io
+title: Ben's maker blog
+tagline: Can't stop learning, won't stop making. 
+description: This is my blog for whatever I have going on in relation to maker stuff.  I'm a bit all over the place in terms of what I'm up to but maybe you'll find something interesting.  I'm always wiling to answer questions as well as collaborate. 
+paginate: 5

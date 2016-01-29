@@ -9,7 +9,7 @@ Here's a list of current projects I am working on (ranked by priority) :
 
 1. <b>CNC Machine</b>: Building an affordable and effective cnc machine for less than $300
 
-2,<b>Touch device similar to Makey-Makey</b>:  Makey-Makey is often too expensive in Indonesia with asking prices anywhere around 650,000-850,000 rupiah.  It can be made for much less and be more available to the public. I've been working in a controller and i figure i could easily make a small box and have the PCB fit on top with the arduino controller underneath.  Controller would be similar to a NES controller but also have some pinouts for additional connections.  I'm considering adding a switch to change functions (mouse/keyboard/key assignment). 
+2.<b>Touch device similar to Makey-Makey</b>:  Makey-Makey is often too expensive in Indonesia with asking prices anywhere around 650,000-850,000 rupiah.  It can be made for much less and be more available to the public. I've been working in a controller and i figure i could easily make a small box and have the PCB fit on top with the arduino controller underneath.  Controller would be similar to a NES controller but also have some pinouts for additional connections.  I'm considering adding a switch to change functions (mouse/keyboard/key assignment). 
 
 3. <b>Galileo</b>: Learn more about the Galileo device and make it do something IoT related. 
 

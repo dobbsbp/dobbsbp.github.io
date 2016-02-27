@@ -1,0 +1,14 @@
+---
+published: true
+title: Delays
+layout: post
+---
+Ah, i've been busy lately with taking care of my father-in-law and haven't had time to tinker around.
+
+A few days ago I was thinking about how I have so much time to create and tinker and yet don't have to worry about working for money.  Of course, in the back of my mind i am telling myself that I am indeed working towards making some money, but that's not happening just yet.
+
+So for now, sticking with designing and trying to get together a completed project.  I've had some great help with a friend with some projects and I'm going to focus my efforts on them.  Luckily it it ties in with some other projects that I feel have obligations elsewhere and so there's a bit of knocking a few birds with one stone going on.
+
+Oh, I now have a Guleek.  It's an x86 computer that's quite small.  There's no fans in it, comes with 16gb ROM, 2gb ram, 1.8ghz quad core intel processor, and I've managed to mangle the OS.  I want to use this for a controller project.  Basically, there will be a wifi controller that networks with the computer and can be used to play games.  
+
+That's all for now!
